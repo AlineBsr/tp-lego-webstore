@@ -4,5 +4,5 @@ exports.products_list = function(req, res) {
 }
 
 exports.products_info = function(req, res) {
-    res.send("Fiche produit : "+ req.params.id)
+    res.send("Fiche produit : " + req.params.id)
 }
