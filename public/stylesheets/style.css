@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.footer img {
+  border: solid 2px green;
+  width: 4rem;
+}
+.footer p {
+  padding: 0px;
+  color: grey;
+}

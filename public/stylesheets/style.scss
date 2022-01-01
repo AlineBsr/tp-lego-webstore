@@ -1,0 +1,16 @@
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+     img{
+        border : solid 2px green;
+        width:4rem;
+        };
+     & p{
+        padding:0px;
+        color:grey;
+        }
+
+};
