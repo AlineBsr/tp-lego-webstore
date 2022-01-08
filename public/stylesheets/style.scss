@@ -1,3 +1,16 @@
+.card{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: right;
+   img{
+      width:50%;
+   };
+   & p{
+      padding:0px;
+      color:grey;
+   }
+}
 
 .footer {
     display: flex;
